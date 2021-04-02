@@ -1,0 +1,5 @@
+18:21:37.313 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctbookviewf677type
+18:21:37.408 [main] ERROR org.example.base.TestBase - Object reposierty (OR) Configuration file loaded
+18:21:37.408 [main] DEBUG org.example.base.TestBase - config  Configuration file loaded
+18:21:40.056 [main] DEBUG org.example.base.TestBase - chrome webdrive launched
+18:21:41.796 [main] DEBUG org.example.base.TestBase - navigated tohttp://www.way2automation.com/angularjs-protractor/banking/#/login

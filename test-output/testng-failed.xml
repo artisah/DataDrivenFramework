@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default Suite]">
+  <test thread-count="5" name="DataDrivenFramework(failed)">
+    <classes>
+      <class name="org.example.testcases.BankManagerLoginTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="loginAsManager"/>
+          <include name="teatDown"/>
+        </methods>
+      </class> <!-- org.example.testcases.BankManagerLoginTest -->
+    </classes>
+  </test> <!-- DataDrivenFramework(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->

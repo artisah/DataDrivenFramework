@@ -1,0 +1,3 @@
+18:23:13.099 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+18:23:13.102 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcelltypebf95type
+18:23:24.355 [main] ERROR org.example.base.TestBase - driver quit successfully
